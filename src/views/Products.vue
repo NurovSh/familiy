@@ -6,9 +6,6 @@
     <b-col v-for="product in products" :key="product.id"  cols="12" md="4">
      <ProductCard :info="product"/>
     </b-col>
-    <b-col cols="12">
-        <router-link to="/product-add">Add new product</router-link>
-    </b-col>
     </b-row>
     </b-container>
     

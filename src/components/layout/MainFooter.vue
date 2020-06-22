@@ -1,7 +1,7 @@
 <template>
    <footer class="footer">
     <p>
-        <strong>Нуров Ш.М. 181-362</strong>
+        <strong>Мирзобекова А.З 181-361</strong>
     </p>
     <ul>
         <li><a href="https://bootstrap-vue.org/docs" target="_blanck">bootstrap-vue.org</a></li>

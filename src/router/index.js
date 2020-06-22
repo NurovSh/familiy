@@ -23,11 +23,6 @@ const routes = [
           })
         }
       },
-      {
-        path: '/product-add',
-        name: 'ProductAdd',
-        component: () => import( '../views/ProductAdd.vue'),
-      }
     ]
   },
 ];

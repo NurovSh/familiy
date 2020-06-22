@@ -1,7 +1,7 @@
 <template>
  <b-card
     :title="info.title"
-    img-src="https://picsum.photos/600/300/?image=25"
+    :img-src="info.img"
     img-alt="Image"
     img-top
     tag="article"
@@ -10,6 +10,10 @@
   >
     <b-card-text>
       {{ info.desc }}
+    </b-card-text>
+
+    <b-card-text>
+      Price: {{ info.price }}
     </b-card-text>
 
     <b-button href="#" variant="primary">Buy</b-button>

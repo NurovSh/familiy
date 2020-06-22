@@ -1,9 +1,9 @@
 {
     "products": [
-      { "id": 1, "title": "Product 1", "desc": "product 1 desc", "price": 400 },
-      { "id": 2, "title": "Product 2", "desc": "product 2 desc", "price": 800 },
-      { "id": 3, "title": "Product 3", "desc": "product 3 desc", "price": 300 },
-      { "id": 4, "title": "Product 4", "desc": "product 4 desc", "price": 200 },
-      { "id": 5, "title": "Product 5", "desc": "product 5 desc", "price": 1000 }
+      { "id": 1, "title": "Audi", "desc": "Audi desc", "price": "1 500 000 000", "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bugatti-chiron-pur-sport-106-1582836604.jpg" },
+      { "id": 2, "title": "BMW", "desc": "BMW desc", "price": "1 000 000 000", "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bugatti-chiron-pur-sport-106-1582836604.jpg" },
+      { "id": 3, "title": "Opel", "desc": "Opel  desc", "price": "4 000 000 000", "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bugatti-chiron-pur-sport-106-1582836604.jpg" },
+      { "id": 4, "title": "Pejo", "desc": "Pejo  desc", "price": "3 000 000 000", "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bugatti-chiron-pur-sport-106-1582836604.jpg" },
+      { "id": 5, "title": "Merc", "desc": "Merc  desc", "price": "2 000 000 000", "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bugatti-chiron-pur-sport-106-1582836604.jpg" }
     ]
   }
